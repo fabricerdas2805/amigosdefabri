@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE=Fabriella Cerdas Cascante
+CORREO=fabricerdas2805@gmail.com
+MATERIAS=Mate, Fisica, Religion
